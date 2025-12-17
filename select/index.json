@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Pale Talk",
+  "base_artist": "えんぷてい",
+  "createdAt": "2025-12-17T15:16:04.163435Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pale Talk",
+      "artist": "えんぷてい",
+      "has_synced": false,
+      "path": "select/pl_01_Pale_Talk_えんぷてい.txt"
+    }
+  ]
+}
